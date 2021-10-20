@@ -1,4 +1,4 @@
-package laia.Calculadora;
+package laia.poo.clases.Calculadora;
 
 import java.io.IOException;
 import java.util.Scanner;

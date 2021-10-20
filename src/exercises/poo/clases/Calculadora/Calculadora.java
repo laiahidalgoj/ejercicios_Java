@@ -1,4 +1,4 @@
-package laia.Calculadora;
+package laia.poo.clases.Calculadora;
 
 public class Calculadora {
 
